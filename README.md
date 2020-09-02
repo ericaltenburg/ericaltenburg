@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm currently working on my portfolio (ealtenburg.co)!
+* I'm a Senior majoring in computer science with a minor in pure and applied mathematics from Stevens Institute of Technology!
 
-Check out my various repos for various course work, projects, and my résumé!
+* I'm currently working on my portfolio (ealtenburg.co)!
+
+* Check out my various repos for various course work, projects, and my résumé!
 
 <!--
 **ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
