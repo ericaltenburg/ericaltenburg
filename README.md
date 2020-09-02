@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I'm currently working on my portfolio (ealtenburg.co)!
+
 Check out my various repos for various course work, projects, and my résumé!
 
 <!--
