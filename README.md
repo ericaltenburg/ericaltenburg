@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-* I'm a Senior majoring in computer science with a minor in pure and applied mathematics from Stevens Institute of Technology!
+* I'm a senior at Stevens Institute of Technology majoring in Computer Science with a minor in Pure and Applied Mathematics!
 
-* I'm currently working on my portfolio (ealtenburg.co)!
+* I'm currently working on:
+  * my portfolio website (ealtenburg.co)!
+  * helping a friend make a bot capable of holding office hours on a Discord server
 
-* Check out my various repos for various course work, projects, and my résumé!
+* Check out my repos for various course work, projects, and my résumé!
 
 <!--
 **ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
