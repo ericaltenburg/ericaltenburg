@@ -8,7 +8,7 @@
 
 * Check out my repos for various course work, projects, and my résumé!
 
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericaltenburg)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericaltenburg)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaltenburg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
