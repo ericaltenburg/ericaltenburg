@@ -29,6 +29,7 @@
   * [CS 392 — Systems Programming](https://github.com/ericaltenburg/cs392)
   * [CS 442 — Database Management](https://github.com/ericaltenburg/cs442)
   * [CS 492 — Operating Systems](https://github.com/ericaltenburg/cs492)
+  * [CS 496 — Programming Languages](https://github.com/ericaltenburg/cs496)
   * [CS 485 — Societal Impact of Information Technologies](https://github.com/ericaltenburg/cs485)
   * [CS 511 — Concurrent Programming](https://github.com/ericaltenburg/cs511)
   * [CS 546 — Web Programming](https://github.com/ericaltenburg/cs546)
