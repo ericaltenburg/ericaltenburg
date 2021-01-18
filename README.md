@@ -17,6 +17,7 @@
   * [projectSTIR](https://github.com/ericaltenburg/projectSTIR) — WIP
   
 * School Work
+  * [Textbooks](https://github.com/ericaltenburg/textbooks)
   * [CS 135 — Discrete Structures](https://github.com/ericaltenburg/cs135)
   * [CS 284 — Data Structures](https://github.com/ericaltenburg/cs284)
   * [CS 306 — Intro to IT Security](https://github.com/ericaltenburg/cs306)
