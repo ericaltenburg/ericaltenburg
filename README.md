@@ -33,6 +33,7 @@
   * [CS 485 — Societal Impact of Information Technologies](https://github.com/ericaltenburg/cs485)
   * [CS 511 — Concurrent Programming](https://github.com/ericaltenburg/cs511)
   * [CS 546 — Web Programming](https://github.com/ericaltenburg/cs546)
+  * [HST 415 - The Nuclear Era](https://github.com/ericaltenburg/hst415)
   * [MA 331 — Intermediate Statistics](https://github.com/ericaltenburg/ma331)
   * [MAT 208 — Linear Algebra](https://github.com/ericaltenburg/mat208)
   * [MAT 252 — Differential Equations](https://github.com/ericaltenburg/mat252)
