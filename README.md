@@ -38,11 +38,11 @@
   * [MAT 208 — Linear Algebra](https://github.com/ericaltenburg/mat208)
   * [MAT 252 — Differential Equations](https://github.com/ericaltenburg/mat252)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 * I'm currently working on:
   * my portfolio website (ealtenburg.co)!
   * helping a friend make a bot capable of holding office hours on a Discord server
