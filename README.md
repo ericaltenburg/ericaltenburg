@@ -15,8 +15,8 @@
   * [MASS](https://github.com/ericaltenburg/projectMASS) - A set of scripts I use to help install my most used apps and old settings on a new Mac
   * [Stevens Music](https://github.com/ericaltenburg/cs146) - A website to help give Stevens artists some exposure
   * [Pound](https://github.com/ericaltenburg/projectPound) - Simple tool to help determine what plates should be placed on a barbell
-  * [STIR](https://github.com/ericaltenburg/projectSTIR) — WIP
-  * [WMM](https://github.com/ericaltenburg/WMM) — WIP
+  * [STIR](https://github.com/ericaltenburg/projectSTIR) - Machine learning model that will predict my Instagram usage so I can prove it wrong (WIP)
+  * [WMM](https://github.com/ericaltenburg/WMM) - A full-stack web application that helps me track my bank account activity and investments (WIP)
   
 ## School Work
   * [Course Work](https://github.com/ericaltenburg/courseWork)
