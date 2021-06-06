@@ -1,6 +1,6 @@
 ### Hey, nice to meet you!
 
-* I'm a senior at Stevens Institute of Technology majoring in Computer Science with a minor in Pure and Applied Mathematics graduating in Spring 2021!
+* I'm an alum of Stevens Institute of Technology with a B.S. in Computer Science and a minor in Mathematics!
 
 * I'm currently looking for work full-time!
   * [résumé](https://github.com/ericaltenburg/resume/blob/master/Altenburg_Eric_CS.pdf)
@@ -17,8 +17,39 @@
   * [projectSTIR](https://github.com/ericaltenburg/projectSTIR) — WIP
   
 * School Work
+  * [Course Work](https://github.com/ericaltenburg/courseWork)
   * [Textbooks](https://github.com/ericaltenburg/textbooks)
-  * [CS 135 — Discrete Structures](https://github.com/ericaltenburg/cs135)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ericaltenburg&theme=dark" alt="My Stats"/>
+</p>
+<!--
+**ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+* I'm currently working on:
+  * my portfolio website (ealtenburg.co)!
+  * helping a friend make a bot capable of holding office hours on a Discord server
+
+* Check out my repos for various course work, projects, and my !
+
+
+<div align="center">
+[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on my portfolio! (ealtenburg.co)
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+ * [CS 135 — Discrete Structures](https://github.com/ericaltenburg/cs135)
   * [CS 284 — Data Structures](https://github.com/ericaltenburg/cs284)
   * [CS 306 — Intro to IT Security](https://github.com/ericaltenburg/cs306)
   * [CS 334 — Automata and Computation](https://github.com/ericaltenburg/cs334)
@@ -38,25 +69,4 @@
   * [MAT 208 — Linear Algebra](https://github.com/ericaltenburg/mat208)
   * [MAT 252 — Differential Equations](https://github.com/ericaltenburg/mat252)
 
-
-[![Eric's github stats](https://github-readme-stats.vercel.app/api?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-* I'm currently working on:
-  * my portfolio website (ealtenburg.co)!
-  * helping a friend make a bot capable of holding office hours on a Discord server
-
-* Check out my repos for various course work, projects, and my !
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my portfolio! (ealtenburg.co)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
