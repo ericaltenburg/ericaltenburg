@@ -1,22 +1,24 @@
-### Hey, nice to meet you!
+# Hey, nice to meet you!
 
 * I'm an alum of Stevens Institute of Technology with a B.S. in Computer Science and a minor in Mathematics!
 
-* I'm currently looking for work full-time!
-  * [résumé](https://github.com/ericaltenburg/resume/blob/master/Altenburg_Eric_CS.pdf)
-  * [My website to get to know me better](https://ealtenburg.co/)
+## I'm currently looking for work full-time!
+  * [Résumé](https://github.com/ericaltenburg/resume/blob/master/Altenburg_Eric_CS.pdf)
+  * [My website to get to know me better :)](https://ealtenburg.co/)
  
-* Projects
-  * [Lighthouse](https://github.com/ericaltenburg/Lighthouse)
-  * [Texas State REU UAV Mission Estimation](https://github.com/ericaltenburg/TXStateREU)
-  * [projectDSG](https://github.com/projectDSG)
-  * [Game of Loans](https://github.com/ericaltenburg/projectMASS)
-  * [projectMASS](https://github.com/ericaltenburg/projectMASS)
-  * [Stevens Music](https://github.com/ericaltenburg/cs146)
-  * [projectPound](https://github.com/ericaltenburg/projectPound)
-  * [projectSTIR](https://github.com/ericaltenburg/projectSTIR) — WIP
+## Projects
+  * [Shifts](https://github.com/ericaltenburg/Shifts) - A full-stack web application that mimics a chatroom for stocks
+  * [Lighthouse](https://github.com/ericaltenburg/Lighthouse) - A full-stack web application to allow students and teachers to talk about their classes
+  * [Texas State REU UAV Mission Estimation](https://github.com/ericaltenburg/TXStateREU) - My research to predict battery consumption in drones pre-flight
+  * [DSG](https://github.com/projectDSG) - An attempt at helping to spread information at rallies during the COVID-19 pandemic
+  * [Game of Loans](https://github.com/ericaltenburg/projectMASS) - An application that helps educate students on their loans
+  * [MASS](https://github.com/ericaltenburg/projectMASS) - A set of scripts I use to help install my most used apps and old settings on a new Mac
+  * [Stevens Music](https://github.com/ericaltenburg/cs146) - A website to help give Stevens artists some exposure
+  * [Pound](https://github.com/ericaltenburg/projectPound) - Simple tool to help determine what plates should be placed on a barbell
+  * [STIR](https://github.com/ericaltenburg/projectSTIR) — WIP
+  * [WMM](https://github.com/ericaltenburg/WMM) — WIP
   
-* School Work
+## School Work
   * [Course Work](https://github.com/ericaltenburg/courseWork)
   * [Textbooks](https://github.com/ericaltenburg/textbooks)
 
