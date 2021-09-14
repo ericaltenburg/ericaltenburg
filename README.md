@@ -1,10 +1,9 @@
 # Hey, nice to meet you!
 
 * I'm an alum of Stevens Institute of Technology with a B.S. in Computer Science and a minor in Mathematics!
-
-## I'm currently looking for work full-time!
-  * [Résumé](https://github.com/ericaltenburg/resume/blob/master/Altenburg_Eric_CS.pdf)
-  * [My website to get to know me better :)](https://ealtenburg.co/)
+* Right now I am a software development engineer at AWS!
+* Check
+* [My website to get to know me better :)](https://ealtenburg.co/)
  
 ## Projects
   * [Shifts](https://github.com/ericaltenburg/Shifts) - A full-stack web application that mimics a chatroom for stocks
@@ -26,6 +25,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ericaltenburg&theme=dark" alt="My Stats"/>
 </p>
 <!--
+
+## I'm currently looking for work full-time!
+  * [Résumé](https://github.com/ericaltenburg/resume/blob/master/Altenburg_Eric_CS.pdf)
+
+
 **ericaltenburg/ericaltenburg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericaltenburg&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 * I'm currently working on:
