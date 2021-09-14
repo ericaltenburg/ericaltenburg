@@ -1,9 +1,10 @@
 # Hey, nice to meet you!
 
+## A Little About Me
 * I'm an alum of Stevens Institute of Technology with a B.S. in Computer Science and a minor in Mathematics!
 * Right now I am a software development engineer at AWS!
-* Check
-* [My website to get to know me better :)](https://ealtenburg.co/)
+* I have a slight obsession with LaTeX
+* [Here's my website to get to know me better :)](https://ealtenburg.co/)
  
 ## Projects
   * [Shifts](https://github.com/ericaltenburg/Shifts) - A full-stack web application that mimics a chatroom for stocks
